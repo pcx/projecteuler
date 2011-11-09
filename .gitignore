@@ -1,0 +1,9 @@
+*.log
+*.pot
+*.pyc
+*~
+*#
+.#*
+*.out
+.emacs.desktop
+.emacs.desktop.lock
